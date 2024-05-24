@@ -1,0 +1,22 @@
+.faq {
+  padding: 96px 0px;
+}
+
+.faq__heading-section {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px 0px;
+  text-align: center;
+}
+
+.faq__heading {
+  color: var(--primary-100);
+}
+
+.faq__description {
+  color: var(--primary-200);
+}

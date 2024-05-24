@@ -1,0 +1,62 @@
+.navigation {
+  padding: 24px 96px;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(4, 140, 129, 0.3);
+}
+
+.navigation__logo-section {
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+}
+
+.navigation__name {
+  font-family: "DM Sans";
+  font-weight: 700;
+  line-height: 140%;
+  font-size: 24px;
+  color: var(--primary-100);
+  margin: 0px;
+}
+
+.navigation__link-section {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  column-gap: 56px;
+}
+
+.navigation__link {
+  color: var(--primary-100);
+  text-decoration: none;
+}
+
+.navigation__cta {
+  height: 56px;
+  width: 167px;
+  padding: 0px;
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 8px;
+  background: var(--gradient);
+  color: var(--primary-400);
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.navigation__cta:hover {
+  scale: 1.01;
+}
+
+.navigation__arrow {
+  height: 24px;
+  width: 24px;
+  border: 1px solid var(--primary-300);
+  border-radius: 8px;
+}

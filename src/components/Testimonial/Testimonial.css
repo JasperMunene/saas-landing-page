@@ -1,0 +1,38 @@
+.testimonial {
+  padding: 64px;
+}
+
+.testimonial__container {
+  margin: auto;
+  max-width: 484px;
+  padding-top: 24px;
+  position: relative;
+}
+
+.testimonial__heading {
+  margin: 0px;
+  text-align: center;
+  color: var(--accent);
+}
+
+.testimonial__author-section {
+  display: flex;
+  column-gap: 16px;
+  height: 43px;
+  justify-content: center;
+  align-items: end;
+  color: var(--primary-100);
+}
+
+.testimonial__organization {
+  color: var(--primary-100);
+  opacity: 0.7;
+}
+
+.testimonial__quotes {
+  position: absolute;
+  height: 24px;
+  width: 37px;
+  top: 0px;
+  left: 0px;
+}

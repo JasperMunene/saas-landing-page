@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "DM Sans";
+  font-weight: 400;
+  src: url("./DMSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  src: url("./DMSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-weight: 600;
+  src: url("./DMSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  src: url("./DMSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  font-weight: 800;
+  src: url("./DMSans-Black.ttf");
+}
+
+@font-face {
+  font-family: "Be Vietnam Pro";
+  font-weight: 400;
+  src: url("./BeVietnamPro-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Be Vietnam Pro";
+  font-weight: 700;
+  src: url("./BeVietnamPro-Bold.ttf");
+}
