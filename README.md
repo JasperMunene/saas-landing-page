@@ -1,6 +1,3 @@
-
-
-```markdown
 # SmartNotes SaaS Landing Page
 
 This repository contains the source code for the SmartNotes SaaS landing page built using HTML, CSS, and React. 
@@ -26,29 +23,21 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
 
-    ```bash
     git clone https://github.com/JasperMunene/saas-landing-page.git
-    ```
 
 2. **Navigate to the project directory:**
 
-    ```bash
     cd saas-landing-page
-    ```
 
 3. **Install dependencies:**
 
-    ```bash
     npm install
-    ```
 
 ## Usage
 
 To run the development server, use the following command:
 
-```bash
 npm start
-```
 
 This will start the application on `http://localhost:5173`. Open your browser and navigate to this URL to view the landing page.
 
@@ -67,9 +56,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-
-
 ---
 
 Created by [Jasper](https://github.com/JasperMunene/)
-```
