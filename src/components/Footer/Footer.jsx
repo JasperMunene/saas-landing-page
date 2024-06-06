@@ -100,11 +100,11 @@ const Footer = () => {
         <p className="text-small footer__copywright">
           @2024 SmartNotes. All Rights Reserved.
           <a
-            href="https://x.com/iamhervewabo"
+            href="https://github.com/JasperMunene"
             className="underline"
             target="_blank"
           >
-            @iamhervewabo
+            Jasper
           </a>
         </p>
         <div className="footer__external-links">
